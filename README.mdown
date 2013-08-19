@@ -1,0 +1,4 @@
+# µSpec
+
+µSpec is a minimalist, easy to use spec system that runs in various
+environments, from nodejs to browsers.
