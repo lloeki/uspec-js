@@ -2,3 +2,5 @@
 
 µSpec is a minimalist, easy to use spec system that runs in various
 environments, from nodejs to browsers.
+
+[![Build Status](https://travis-ci.org/lloeki/uspec-js.svg?branch=master)](https://travis-ci.org/lloeki/uspec-js)
